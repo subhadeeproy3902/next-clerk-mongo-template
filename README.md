@@ -1,1 +1,0 @@
-# next-clerk-mongo-template
